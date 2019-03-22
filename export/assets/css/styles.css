@@ -6,3 +6,15 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   padding: 20px;
 }
 
+.topbar {
+  background-color: #28a745;
+  height: 20px;
+  font-size: smaller;
+}
+
+#mapa {
+}
+
+.text-right.topbar {
+}
+

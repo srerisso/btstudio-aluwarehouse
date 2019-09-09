@@ -1,0 +1,26 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  padding: 10px;
+}
+
+#empresa {
+  padding: 20px;
+}
+
+.topbar {
+  background-color: #28a745;
+  height: 20px;
+  font-size: smaller;
+}
+
+#mapa {
+}
+
+.text-right.topbar {
+}
+
+.header {
+  background: url(../img/pexels-photo-532568m2000.jpeg) no-repeat center;
+  background-size: cover;
+  min-height: 50vh;
+}
+
